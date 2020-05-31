@@ -1,0 +1,107 @@
+May 29 06:49:51 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 29 06:52:09 shukrithis-ubuntu systemd-resolved[916]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May 29 06:53:06 shukrithis-ubuntu gnome-software[3058]: internal error: failed, but no error code: cancelled-priority
+May 29 06:53:44 shukrithis-ubuntu gnome-software[3058]: not handling error invalid-format for action refine: server returned no data
+May 29 08:37:40 shukrithis-ubuntu systemd-resolved[916]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May 29 08:52:49 shukrithis-ubuntu kernel: [48891.764972] usb 1-1: device descriptor read/64, error -71
+May 29 08:52:50 shukrithis-ubuntu kernel: [48892.141005] usb 1-1: device descriptor read/64, error -71
+May 29 08:52:50 shukrithis-ubuntu kernel: [48892.784982] usb 1-1: device descriptor read/64, error -71
+May 29 08:52:51 shukrithis-ubuntu kernel: [48893.161120] usb 1-1: device descriptor read/64, error -71
+May 29 09:05:46 shukrithis-ubuntu systemd-resolved[916]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May 29 09:18:11 shukrithis-ubuntu systemd-resolved[916]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May 29 10:19:04 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 29 10:19:04 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 29 13:31:21 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 29 13:31:21 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 29 13:34:28 shukrithis-ubuntu gnome-shell[2561]: [Child 2422, MediaDecoderStateMachine #1] WARNING: Decoder=7fa83b5a0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-d_872t/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367
+May 29 13:34:28 shukrithis-ubuntu gnome-shell[2561]: message repeated 2 times: [ [Child 2422, MediaDecoderStateMachine #1] WARNING: Decoder=7fa83b5a0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-d_872t/firefox-76.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3367]
+May 29 14:23:34 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 29 14:28:15 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 29 15:18:12 shukrithis-ubuntu code.desktop[2561]: [4872:0529/151812.991669:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 29 15:18:16 shukrithis-ubuntu code.desktop[2561]: [4872:0529/151816.604949:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 29 17:08:22 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 29 17:23:56 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 29 19:21:24 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 29 19:21:24 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 29 19:21:25 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 29 19:21:25 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 29 22:26:01 shukrithis-ubuntu systemd-resolved[916]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May 29 22:47:42 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 29 22:47:42 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 30 01:32:50 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 30 01:32:50 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 30 01:32:50 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 30 01:32:50 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 30 01:37:42 shukrithis-ubuntu gnome-shell[2561]: Ignored exception from dbus method: Gio.IOErrorEnum: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._g_2dio_2derror_2dquark.Code19: Operation was cancelled
+May 30 09:27:04 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 30 09:29:20 shukrithis-ubuntu systemd-resolved[916]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+May 30 09:31:12 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 30 09:31:12 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 30 09:31:12 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 30 09:31:12 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 30 09:45:43 shukrithis-ubuntu code.desktop[2561]: [21141:0530/094543.232495:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 30 09:45:46 shukrithis-ubuntu code.desktop[2561]: [21141:0530/094546.294125:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 30 11:00:23 shukrithis-ubuntu gnome-software[3058]: not GsPlugin error pk-control-error-quark:0: failed to resolve package_ids: Operation was cancelled
+May 30 11:00:23 shukrithis-ubuntu gnome-software[3058]: not GsPlugin error snapd-error-quark:1: Failed to write to snapd: Operation was cancelled
+May 30 11:00:23 shukrithis-ubuntu gnome-software[3058]: message repeated 17 times: [ not GsPlugin error snapd-error-quark:1: Failed to write to snapd: Operation was cancelled]
+May 30 16:37:53 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 30 17:58:03 shukrithis-ubuntu code.desktop[2561]: [31543:0530/175803.203096:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 30 17:58:06 shukrithis-ubuntu code.desktop[2561]: [31543:0530/175806.240701:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 30 18:25:42 shukrithis-ubuntu kernel: [135835.553353] usb 1-1: device descriptor read/64, error -71
+May 30 18:25:43 shukrithis-ubuntu kernel: [135835.929390] usb 1-1: device descriptor read/64, error -71
+May 30 18:25:43 shukrithis-ubuntu kernel: [135836.573454] usb 1-1: device descriptor read/64, error -71
+May 30 18:25:44 shukrithis-ubuntu kernel: [135836.949508] usb 1-1: device descriptor read/64, error -71
+May 30 18:25:44 shukrithis-ubuntu kernel: [135837.745506] usb 1-1: device not accepting address 8, error -71
+May 30 18:25:45 shukrithis-ubuntu kernel: [135838.433530] usb 1-1: device not accepting address 8, error -71
+May 30 19:32:46 shukrithis-ubuntu snapd[967]: stateengine.go:150: state ensure error: cannot refresh snap-declaration for "gnome-logs": Get https://api.snapcraft.io/api/v1/snaps/assertions/snap-declaration/16/kIMfmZTJspWa8vtfbgU3W9Nbv4V5Qgmh?max-format=4: dial tcp: lookup api.snapcraft.io: no such host
+May 30 20:20:53 shukrithis-ubuntu code.desktop[2561]: [2068:0530/202053.564994:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 30 20:20:56 shukrithis-ubuntu code.desktop[2561]: [2068:0530/202056.552160:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 30 20:23:40 shukrithis-ubuntu code.desktop[2561]: [2068:0530/202340.946149:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 30 22:04:07 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 30 22:39:15 shukrithis-ubuntu bluetoothd[1007]: connect error: Function not implemented (38)
+May 30 22:39:46 shukrithis-ubuntu bluetoothd[1007]: connect error: Function not implemented (38)
+May 31 10:59:38 shukrithis-ubuntu gnome-shell[2561]: Error setting property 'Powered' on interface org.bluez.Adapter1: GDBus.Error:org.bluez.Error.Blocked: Blocked through rfkill (g-io-error-quark, 36)
+May 31 11:57:45 shukrithis-ubuntu code.desktop[2561]: [8067:0531/115745.577131:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 11:57:48 shukrithis-ubuntu code.desktop[2561]: [8067:0531/115748.561828:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 12:54:52 shukrithis-ubuntu code.desktop[2561]: [8067:0531/125452.584809:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 12:55:45 shukrithis-ubuntu code.desktop[2561]: [8067:0531/125545.236886:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 13:39:33 shukrithis-ubuntu systemd[1]: Starting Process error reports when automatic reporting is enabled...
+May 31 13:39:34 shukrithis-ubuntu systemd[1]: Started Process error reports when automatic reporting is enabled.
+May 31 13:39:42 shukrithis-ubuntu systemd[1]: Starting Process error reports when automatic reporting is enabled...
+May 31 13:39:42 shukrithis-ubuntu systemd[1]: Started Process error reports when automatic reporting is enabled.
+May 31 15:35:17 shukrithis-ubuntu code.desktop[2561]: [8067:0531/153517.143250:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 16:10:47 shukrithis-ubuntu code.desktop[2561]: [8067:0531/161047.754744:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 16:39:01 shukrithis-ubuntu code.desktop[2561]: [8067:0531/163901.187848:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 17:09:29 shukrithis-ubuntu gnome-shell[2561]: IPDL protocol error: Handler returned error code!
+May 31 17:09:29 shukrithis-ubuntu gnome-shell[2561]: ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+May 31 17:35:08 shukrithis-ubuntu code.desktop[2561]: [8067:0531/173508.487075:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 18:18:56 shukrithis-ubuntu code.desktop[2561]: [8067:0531/181856.421971:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 19:23:33 shukrithis-ubuntu systemd[1]: Starting Process error reports when automatic reporting is enabled...
+May 31 19:23:33 shukrithis-ubuntu systemd[1]: Started Process error reports when automatic reporting is enabled.
+May 31 19:23:48 shukrithis-ubuntu systemd[1]: Starting Process error reports when automatic reporting is enabled...
+May 31 19:23:49 shukrithis-ubuntu systemd[1]: Started Process error reports when automatic reporting is enabled.
+May 31 19:23:49 shukrithis-ubuntu xdman.desktop[2758]: # A fatal error has been detected by the Java Runtime Environment:
+May 31 19:23:49 shukrithis-ubuntu xdman.desktop[2758]: # An error report file with more information is saved as:
+May 31 19:23:49 shukrithis-ubuntu systemd[1]: Starting Process error reports when automatic reporting is enabled...
+May 31 19:25:15 shukrithis-ubuntu systemd[1]: Started Process error reports when automatic reporting is enabled.
+May 31 19:29:46 shukrithis-ubuntu whoopsie[1536]: [19:29:46] Sent; server replied with: No error
+May 31 19:29:46 shukrithis-ubuntu systemd[1]: Starting Process error reports when automatic reporting is enabled...
+May 31 19:29:46 shukrithis-ubuntu systemd[1]: Started Process error reports when automatic reporting is enabled.
+May 31 20:57:02 shukrithis-ubuntu kernel: [189842.229854] usb 1-1: device descriptor read/64, error -71
+May 31 20:57:03 shukrithis-ubuntu kernel: [189842.605934] usb 1-1: device descriptor read/64, error -71
+May 31 20:57:03 shukrithis-ubuntu kernel: [189843.253894] usb 1-1: device descriptor read/64, error -71
+May 31 20:57:04 shukrithis-ubuntu kernel: [189843.629891] usb 1-1: device descriptor read/64, error -71
+May 31 20:57:04 shukrithis-ubuntu kernel: [189844.425890] usb 1-1: device not accepting address 12, error -71
+May 31 20:57:05 shukrithis-ubuntu kernel: [189845.109856] usb 1-1: device not accepting address 12, error -71
+May 31 21:34:34 shukrithis-ubuntu code.desktop[2561]: [8067:0531/213434.953998:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 21:36:00 shukrithis-ubuntu code.desktop[2561]: [8067:0531/213600.693082:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 21:38:11 shukrithis-ubuntu code.desktop[2561]: [8067:0531/213811.204388:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 23:08:19 shukrithis-ubuntu code.desktop[15636]: [23616:0531/230819.795893:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 23:08:24 shukrithis-ubuntu code.desktop[15636]: [23616:0531/230824.291261:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 23:08:34 shukrithis-ubuntu gnome-shell[15636]: [23783:0531/230834.538215:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 23:08:37 shukrithis-ubuntu gnome-shell[15636]: [23783:0531/230837.534944:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 23:29:08 shukrithis-ubuntu gnome-shell[15636]: [23783:0531/232908.782084:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+May 31 23:34:48 shukrithis-ubuntu gnome-shell[15636]: [23783:0531/233448.872196:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jun  1 00:33:59 shukrithis-ubuntu gnome-shell[15636]: [27042:0601/003359.139124:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jun  1 00:34:02 shukrithis-ubuntu gnome-shell[15636]: [27042:0601/003402.148351:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jun  1 00:43:06 shukrithis-ubuntu gnome-shell[15636]: [27042:0601/004306.662787:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command

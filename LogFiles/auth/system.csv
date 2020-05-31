@@ -1,0 +1,124 @@
+,Time,User,Key/Agent,Message
+0,2020-05-24 10:42:31,shukrithis-ubuntu,systemd-logind[973],' System is rebooting.\n'
+1,2020-05-24 10:43:44,shukrithis-ubuntu,systemd-logind[999],' New seat seat0.\n'
+2,2020-05-24 10:43:44,shukrithis-ubuntu,systemd-logind[999],' Watching system buttons on /dev/input/event3 (Power Button)\n'
+3,2020-05-24 10:43:37,shukrithis-ubuntu,systemd-logind[999],' Watching system buttons on /dev/input/event1 (Power Button)\n'
+4,2020-05-24 10:43:37,shukrithis-ubuntu,systemd-logind[999],' Watching system buttons on /dev/input/event0 (Lid Switch)\n'
+5,2020-05-24 10:43:37,shukrithis-ubuntu,systemd-logind[999],' Watching system buttons on /dev/input/event2 (Sleep Button)\n'
+6,2020-05-24 10:43:37,shukrithis-ubuntu,systemd-logind[999],' Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)\n'
+7,2020-05-24 10:43:58,shukrithis-ubuntu,systemd-logind[999],' New session c1 of user gdm.\n'
+8,2020-05-24 10:45:43,shukrithis-ubuntu,systemd-logind[999],' New session 2 of user Shukrithi.\n'
+9,2020-05-24 10:46:01,shukrithis-ubuntu,systemd-logind[999],' Session c1 logged out. Waiting for processes to exit.\n'
+10,2020-05-24 10:46:01,shukrithis-ubuntu,systemd-logind[999],' Removed session c1.\n'
+11,2020-05-24 13:33:42,shukrithis-ubuntu,systemd-logind[999],""" Operation 'sleep' finished.\n"""
+12,2020-05-24 17:19:06,shukrithis-ubuntu,systemd-logind[999],""" Operation 'sleep' finished.\n"""
+13,2020-05-25 09:41:24,shukrithis-ubuntu,systemd-logind[999],""" Operation 'sleep' finished.\n"""
+14,2020-05-25 11:44:26,shukrithis-ubuntu,systemd-logind[999],""" Operation 'sleep' finished.\n"""
+15,2020-05-25 21:16:53,shukrithis-ubuntu,systemd-logind[999],""" Operation 'sleep' finished.\n"""
+16,2020-05-25 23:51:29,shukrithis-ubuntu,systemd-logind[999],' Lid closed.\n'
+17,2020-05-25 23:51:29,shukrithis-ubuntu,systemd-logind[999],' Suspending...\n'
+18,2020-05-26 07:46:17,shukrithis-ubuntu,systemd-logind[999],' Lid opened.\n'
+19,2020-05-26 07:46:17,shukrithis-ubuntu,systemd-logind[999],""" Operation 'sleep' finished.\n"""
+20,2020-05-26 13:09:55,shukrithis-ubuntu,systemd-logind[966],' New seat seat0.\n'
+21,2020-05-26 13:09:55,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event3 (Power Button)\n'
+22,2020-05-26 13:09:55,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event1 (Power Button)\n'
+23,2020-05-26 13:09:55,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event0 (Lid Switch)\n'
+24,2020-05-26 13:09:55,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event2 (Sleep Button)\n'
+25,2020-05-26 13:09:55,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)\n'
+26,2020-05-26 13:10:12,shukrithis-ubuntu,systemd-logind[966],' New session c1 of user gdm.\n'
+27,2020-05-26 13:13:05,shukrithis-ubuntu,systemd-logind[966],' New session 2 of user Shukrithi.\n'
+28,2020-05-26 13:13:25,shukrithis-ubuntu,systemd-logind[966],' Session c1 logged out. Waiting for processes to exit.\n'
+29,2020-05-26 13:13:25,shukrithis-ubuntu,systemd-logind[966],' Removed session c1.\n'
+30,2020-05-26 22:03:07,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event17 (Logitech K360)\n'
+31,2020-05-26 23:11:55,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event7 (40:EF:4C:B7:55:1C)\n'
+32,2020-05-26 23:49:34,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+33,2020-05-26 23:49:34,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+34,2020-05-27 08:49:13,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+35,2020-05-27 08:49:14,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+36,2020-05-27 15:36:51,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+37,2020-05-27 21:31:43,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+38,2020-05-27 21:31:43,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+39,2020-05-27 21:34:38,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+40,2020-05-27 21:34:39,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+41,2020-05-27 21:56:11,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+42,2020-05-27 21:56:11,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+43,2020-05-27 22:08:53,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+44,2020-05-27 22:08:54,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+45,2020-05-27 22:49:21,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+46,2020-05-27 22:49:21,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+47,2020-05-27 22:53:24,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+48,2020-05-27 22:53:24,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+49,2020-05-27 23:36:49,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+50,2020-05-27 23:36:49,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+51,2020-05-28 08:00:49,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+52,2020-05-28 08:00:49,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+53,2020-05-28 12:04:10,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+54,2020-05-28 12:04:15,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+55,2020-05-28 12:04:49,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+56,2020-05-28 12:09:14,shukrithis-ubuntu,systemd-logind[985],' New seat seat0.\n'
+57,2020-05-28 12:09:14,shukrithis-ubuntu,systemd-logind[985],' Watching system buttons on /dev/input/event3 (Power Button)\n'
+58,2020-05-28 12:09:14,shukrithis-ubuntu,systemd-logind[985],' Watching system buttons on /dev/input/event1 (Power Button)\n'
+59,2020-05-28 12:09:14,shukrithis-ubuntu,systemd-logind[985],' Watching system buttons on /dev/input/event0 (Lid Switch)\n'
+60,2020-05-28 12:09:14,shukrithis-ubuntu,systemd-logind[985],' Watching system buttons on /dev/input/event2 (Sleep Button)\n'
+61,2020-05-28 12:09:14,shukrithis-ubuntu,systemd-logind[985],' Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)\n'
+62,2020-05-28 12:09:30,shukrithis-ubuntu,systemd-logind[985],' New session c1 of user gdm.\n'
+63,2020-05-28 12:10:31,shukrithis-ubuntu,systemd-logind[985],' New session 2 of user Shukrithi.\n'
+64,2020-05-28 12:10:56,shukrithis-ubuntu,systemd-logind[985],' Session c1 logged out. Waiting for processes to exit.\n'
+65,2020-05-28 12:10:57,shukrithis-ubuntu,systemd-logind[985],' Removed session c1.\n'
+66,2020-05-28 12:21:26,shukrithis-ubuntu,systemd-logind[985],' System is rebooting.\n'
+67,2020-05-28 12:22:30,shukrithis-ubuntu,systemd-logind[966],' New seat seat0.\n'
+68,2020-05-28 12:22:30,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event3 (Power Button)\n'
+69,2020-05-28 12:22:30,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event1 (Power Button)\n'
+70,2020-05-28 12:22:30,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event0 (Lid Switch)\n'
+71,2020-05-28 12:22:30,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event2 (Sleep Button)\n'
+72,2020-05-28 12:22:30,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)\n'
+73,2020-05-28 12:22:45,shukrithis-ubuntu,systemd-logind[966],' New session c1 of user gdm.\n'
+74,2020-05-28 12:23:48,shukrithis-ubuntu,systemd-logind[966],' New session 2 of user Shukrithi.\n'
+75,2020-05-28 12:24:06,shukrithis-ubuntu,systemd-logind[966],' Session c1 logged out. Waiting for processes to exit.\n'
+76,2020-05-28 12:24:06,shukrithis-ubuntu,systemd-logind[966],' Removed session c1.\n'
+77,2020-05-28 21:03:36,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+78,2020-05-28 21:03:36,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+79,2020-05-28 21:22:34,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+80,2020-05-28 21:22:35,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+81,2020-05-29 00:13:06,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+82,2020-05-29 00:13:06,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+83,2020-05-29 06:49:49,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+84,2020-05-29 06:49:50,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+85,2020-05-29 08:36:05,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+86,2020-05-29 14:23:33,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+87,2020-05-29 14:24:49,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+88,2020-05-29 14:24:49,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+89,2020-05-29 14:28:13,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+90,2020-05-29 14:28:14,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+91,2020-05-29 16:54:31,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+92,2020-05-29 16:54:31,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+93,2020-05-29 17:08:21,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+94,2020-05-29 17:08:21,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+95,2020-05-29 17:23:25,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+96,2020-05-29 17:23:25,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+97,2020-05-29 17:23:55,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+98,2020-05-29 17:23:56,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+99,2020-05-30 01:38:02,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+100,2020-05-30 01:38:02,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+101,2020-05-30 09:27:02,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+102,2020-05-30 09:27:03,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+103,2020-05-30 15:40:44,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+104,2020-05-30 15:40:44,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+105,2020-05-30 16:37:51,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+106,2020-05-30 16:37:52,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+107,2020-05-30 16:41:28,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+108,2020-05-30 16:41:28,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+109,2020-05-30 16:54:56,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+110,2020-05-30 16:54:57,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+111,2020-05-30 22:04:06,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+112,2020-05-30 22:36:43,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event6 (30:FD:38:93:64:F3)\n'
+113,2020-05-30 22:39:49,shukrithis-ubuntu,systemd-logind[966],' Watching system buttons on /dev/input/event6 (40:EF:4C:B7:55:1C)\n'
+114,2020-05-30 23:36:57,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+115,2020-05-30 23:36:57,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+116,2020-05-31 10:59:36,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+117,2020-05-31 10:59:37,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""
+118,2020-05-31 19:24:12,shukrithis-ubuntu,systemd-logind[966],' Lid closed.\n'
+119,2020-05-31 19:24:20,shukrithis-ubuntu,systemd-logind[966],' Suspending...\n'
+120,2020-05-31 19:24:50,shukrithis-ubuntu,systemd-logind[966],"' Delay lock is active (UID 1000/Shukrithi, PID 15636/gnome-shell) but inhibitor timeout is reached.\n'"
+121,2020-05-31 19:24:58,shukrithis-ubuntu,systemd-logind[966],' Lid opened.\n'
+122,2020-05-31 19:24:59,shukrithis-ubuntu,systemd-logind[966],""" Operation 'sleep' finished.\n"""

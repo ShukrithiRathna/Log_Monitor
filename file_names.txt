@@ -1,0 +1,15 @@
+cat  /var/log/syslog >> Logging/LogFiles/syslog/sys_log.txt
+cat  /var/log/auth.log >> Logging/LogFiles/auth/auth_log.txt
+cat  /var/log/kern.log >> Logging/LogFiles/kern/kern_log.txt
+sudo cat  /var/log/boot.log >> Logging/LogFiles/boot_log.txt
+cat  /var/log/faillog >> Logging/LogFiles/fail_log.txt
+cat  /var/log/mail.log >> Logging/LogFiles/mail_log.txt
+lastlog >> Logging/LogFiles/lastlog.txt
+last reboot >> Logging/LogFiles/reboot.txt
+ls -l /var/log >> Logging/LogFiles/list.txt
+grep "error" /var/log/kern.log  >> Logging/LogFiles/kern/error.txt
+grep "error" /var/log/auth.log  >> Logging/LogFiles/auth/error.txt
+grep "error" /var/log/syslog  >> Logging/LogFiles/syslog/error.txt
+grep "systemd" /var/log/kern.log  >> Logging/LogFiles/kern/system.txt
+grep "systemd-login" /var/log/auth.log  >> Logging/LogFiles/auth/system.txt
+grep "systemd" /var/log/syslog  >> Logging/LogFiles/syslog/system.txt

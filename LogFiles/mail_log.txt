@@ -1,0 +1,48 @@
+May 24 18:13:43 shukrithis-ubuntu sSMTP[15031]: Creating SSL connection to host
+May 24 18:13:44 shukrithis-ubuntu sSMTP[15031]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 24 18:13:47 shukrithis-ubuntu sSMTP[15031]: Invalid response SMTP server
+May 24 18:13:48 shukrithis-ubuntu sSMTP[15053]: Creating SSL connection to host
+May 24 18:13:49 shukrithis-ubuntu sSMTP[15053]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 24 18:13:52 shukrithis-ubuntu sSMTP[15053]: Invalid response SMTP server
+May 25 18:43:43 shukrithis-ubuntu sSMTP[25876]: Creating SSL connection to host
+May 25 18:43:43 shukrithis-ubuntu sSMTP[25876]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 25 18:43:49 shukrithis-ubuntu sSMTP[25876]: Invalid response SMTP server
+May 25 18:43:50 shukrithis-ubuntu sSMTP[25896]: Creating SSL connection to host
+May 25 18:43:50 shukrithis-ubuntu sSMTP[25896]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 25 18:43:56 shukrithis-ubuntu sSMTP[25896]: Invalid response SMTP server
+May 26 19:09:53 shukrithis-ubuntu sSMTP[25654]: Creating SSL connection to host
+May 26 19:09:53 shukrithis-ubuntu sSMTP[25654]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 26 19:09:56 shukrithis-ubuntu sSMTP[25654]: Invalid response SMTP server
+May 26 19:09:57 shukrithis-ubuntu sSMTP[25674]: Creating SSL connection to host
+May 26 19:09:57 shukrithis-ubuntu sSMTP[25674]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 26 19:10:03 shukrithis-ubuntu sSMTP[25674]: Invalid response SMTP server
+May 27 19:09:54 shukrithis-ubuntu sSMTP[17685]: Creating SSL connection to host
+May 27 19:09:55 shukrithis-ubuntu sSMTP[17685]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 27 19:10:03 shukrithis-ubuntu sSMTP[17685]: Invalid response SMTP server
+May 27 19:10:04 shukrithis-ubuntu sSMTP[17707]: Creating SSL connection to host
+May 27 19:10:05 shukrithis-ubuntu sSMTP[17707]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 27 19:10:11 shukrithis-ubuntu sSMTP[17707]: Invalid response SMTP server
+May 28 19:22:46 shukrithis-ubuntu sSMTP[14203]: Creating SSL connection to host
+May 28 19:22:46 shukrithis-ubuntu sSMTP[14203]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 28 19:22:49 shukrithis-ubuntu sSMTP[14203]: Invalid response SMTP server
+May 28 19:23:09 shukrithis-ubuntu sSMTP[14230]: Creating SSL connection to host
+May 28 19:23:09 shukrithis-ubuntu sSMTP[14230]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 28 19:23:12 shukrithis-ubuntu sSMTP[14230]: Invalid response SMTP server
+May 29 19:22:46 shukrithis-ubuntu sSMTP[11421]: Creating SSL connection to host
+May 29 19:22:46 shukrithis-ubuntu sSMTP[11421]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 29 19:22:52 shukrithis-ubuntu sSMTP[11421]: Invalid response SMTP server
+May 29 19:23:13 shukrithis-ubuntu sSMTP[11465]: Creating SSL connection to host
+May 29 19:23:13 shukrithis-ubuntu sSMTP[11465]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 29 19:23:19 shukrithis-ubuntu sSMTP[11465]: Invalid response SMTP server
+May 30 19:22:46 shukrithis-ubuntu sSMTP[442]: Creating SSL connection to host
+May 30 19:22:47 shukrithis-ubuntu sSMTP[442]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 30 19:22:53 shukrithis-ubuntu sSMTP[442]: Invalid response SMTP server
+May 30 19:23:13 shukrithis-ubuntu sSMTP[466]: Creating SSL connection to host
+May 30 19:23:14 shukrithis-ubuntu sSMTP[466]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 30 19:23:20 shukrithis-ubuntu sSMTP[466]: Invalid response SMTP server
+May 31 19:52:50 shukrithis-ubuntu sSMTP[16744]: Creating SSL connection to host
+May 31 19:52:51 shukrithis-ubuntu sSMTP[16744]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 31 19:52:53 shukrithis-ubuntu sSMTP[16744]: Invalid response SMTP server
+May 31 19:53:14 shukrithis-ubuntu sSMTP[16770]: Creating SSL connection to host
+May 31 19:53:14 shukrithis-ubuntu sSMTP[16770]: SSL connection using ECDHE_RSA_AES_256_GCM_SHA384
+May 31 19:53:17 shukrithis-ubuntu sSMTP[16770]: Invalid response SMTP server
